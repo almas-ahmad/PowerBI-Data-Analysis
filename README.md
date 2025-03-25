@@ -40,4 +40,11 @@ Basic knowledge of data modeling and DAX for better understanding
 
 Feel free to contribute by adding improvements or additional Power BI examples. Fork this repository and submit a pull request with your changes.
 
+**License**
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+📌 Author: Almas Ahmad
+📌 GitHub: Your GitHub Profile
+📌 Email: almasahmad995@gmail.com
 
